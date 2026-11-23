@@ -1,0 +1,11 @@
+{
+  "device": "m14x",
+  "model": "SM-M146B",
+  "target_android": 17,
+  "target_one_ui": "9.0",
+  "stock_firmware": null,
+  "stock_bootloader_revision": null,
+  "donor_model": null,
+  "donor_firmware": null,
+  "port_status": "preflight-only"
+}
